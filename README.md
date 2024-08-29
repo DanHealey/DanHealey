@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently a junior at Brown University
+- 🔭 I’m currently a senior at Brown University
 - 🌱 My primary interests are computer science and applied math
 - 📫 How to reach me: daniel_healey@brown.edu
 
