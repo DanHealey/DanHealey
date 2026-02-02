@@ -7,5 +7,3 @@
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=danhealey)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhealey&layout=compact)
-
